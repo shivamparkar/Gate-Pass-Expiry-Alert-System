@@ -1,0 +1,3 @@
+S:\Shivam\Personal Project\Gate&Vechile Console APP\Gate&Vechile Console APP\obj\Debug\Gate&Vechile Console APP.csproj.AssemblyReference.cache
+S:\Shivam\Personal Project\Gate&Vechile Console APP\Gate&Vechile Console APP\obj\Debug\Gate&Vechile Console APP.csproj.SuggestedBindingRedirects.cache
+S:\Shivam\Personal Project\Gate&Vechile Console APP\Gate&Vechile Console APP\obj\Debug\Gate&Vechile Console APP.csproj.CoreCompileInputs.cache

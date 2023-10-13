@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gate&Vechile Console APP", "Gate&Vechile Console APP\Gate&Vechile Console APP.csproj", "{24A35FBD-3576-43A4-B751-8FBCB8368839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A35FBD-3576-43A4-B751-8FBCB8368839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A35FBD-3576-43A4-B751-8FBCB8368839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A35FBD-3576-43A4-B751-8FBCB8368839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A35FBD-3576-43A4-B751-8FBCB8368839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EB9F15D-8E0D-4B6C-9986-CEA9AAA641D5}
+	EndGlobalSection
+EndGlobal
